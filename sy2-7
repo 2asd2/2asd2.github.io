@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CSS文字属性</title>
+		<meta charset="UTF-8">
+		<style>
+			.title{
+				text-align: center;
+				font-family: 隶书;
+				font-weight: bold;
+				font-size: 48px;
+				color: red
+			}
+			.author{
+				text-align: center;
+				font-family: 宋体;
+				font-style: italic;
+				font-size: 24px;
+				color: #cc9900
+			}
+			.article{
+				text-align: center;
+				font-family: 宋体;
+				font-size: 32px;
+				color: blue
+			}
+		</style>
+	</head>
+	<body>
+		<p class="title">《登鹳雀楼》</p>
+		<p class="author">王之涣</p>
+		<p class="article">白日依山尽，黄河入海流。欲穷千里目，更上一层楼。</p>
+		<p class="title">《相思》</p>
+		<p class="author">王维</p>
+		<p class="article">红豆生南国，春来发几枝。愿君多采撷，此物最相思。</p>
+	</body>
+</html>>
